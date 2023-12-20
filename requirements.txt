@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gensim
+PyMuPDF
+python-magic
+joblib
+tensorflow
+Flask-Cors
+python-multipart
